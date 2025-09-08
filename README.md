@@ -1,4 +1,4 @@
-"# Tugas 2 gudang_data" 
+"# Tugas 1 gudang_data" 
 Notes : 
   1. File hasil_analisis.xlsx adalah raw data dari file hasil_penjualan_per_kategori.csv
 
