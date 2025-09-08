@@ -1,0 +1,5 @@
+CustomerID,Feedback,Sentimen
+C001,"Pelayanan cepat, sangat puas",Positif
+C002,Harga terlalu mahal,Negatif
+C003,Produk bagus tapi pengiriman lambat,Netral
+C004,Kurir ramah tapi kemasan rusak,Negatif
